@@ -1,0 +1,22 @@
+{
+  "name": "PokemonGo",
+  "version": "1.0.0",
+  "description": "Welcome to pokemon world",
+  "main": "index.html",
+  "scripts": {
+    "start": "node_modules/http-server/bin/http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonlakla2548/MyPokedex.git"
+  },
+  "author": "Napat Kaewchan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tonlakla2548/MyPokedex/issues"
+  },
+  "homepage": "https://github.com/tonlakla2548/MyPokedex#readme",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
